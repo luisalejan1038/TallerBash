@@ -1,0 +1,12 @@
+Es un script donde se realiza una iteración desde 1 hasta 100, se calcula el 
+residuo de tres operaciones proveniente de la división entre 5, 
+7 y 9 y se evaluan condiciones establecidas en los bloques de decisión.
+
+La primera condición a evaluar es si el residuo el residuo es distinto de 3.
+Si lo es, el valor de la variable de conteo aumenta en 1 y vuelve e inicia el 
+ciclo. Si no se llega a cumplir la condición se realiza el siguiente cálculo 
+de residuo con su condición asociada e igualmente con el siguiente y 
+último residuo y bloque.  
+
+EL break es utilizado para sacar del loop al programa en ejecución; es decir, 
+terminar el loop.   

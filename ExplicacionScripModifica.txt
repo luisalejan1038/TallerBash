@@ -1,0 +1,2 @@
+Es un script que realiza modificaciones sobre archivos que se encuentran en un mismo directorio y 
+que son del mismo tipo. Finalmente, muestra las líneas agragadas a cada uno de los archivos. 
