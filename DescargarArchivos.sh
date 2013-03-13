@@ -1,8 +1,9 @@
 #!/bin/bash 
 
-while read linea 
-do 
+#while read linea 
+#do 
 #   echo "$linea"
-   wget $linea
-done < URLs.txt
+#   wget -i $linea
+#done < URLs.txt
 
+wget -i URLs.txt
