@@ -1,0 +1,7 @@
+./Pb1.txt
+./Pb2.txt
+./Pb3.txt
+./Pb4.txt
+./Pb5.txt
+./Pb6.txt
+./PbLista.txt
