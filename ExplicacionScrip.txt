@@ -1,4 +1,4 @@
-Es un script donde se realiza una iteración desde 1 hasta 100, se calcula el 
+Es un script donde se realiza una iteración desde 1 hasta 10000, se calcula el 
 residuo de tres operaciones proveniente de la división entre 5, 
 7 y 9 y se evaluan condiciones establecidas en los bloques de decisión.
 
