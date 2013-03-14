@@ -70,7 +70,7 @@ tar -cpPzf /backups/$YEAR/$OLD.tar.gz /backups/$YEAR/$OLD/
 
 
 # Cycle through each drive and back up each
-for d in "${DRIVE[@]}"; do
+for d in "${C/Users/luis.silva/TallerBash/ScriptBackUps}"; do
         echo "- Backing up drive $d" >> $BKLOG
 
 

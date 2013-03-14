@@ -1,0 +1,11 @@
+./AjustarScript/Pb5.txt
+./AjustarScript/Pb6.txt
+./ExplicacionScrip.txt
+./ExplicacionScripModifica.txt
+./ListaMod.txt
+./ListaModtxt.txt
+./ScriptBackUps/Pb/Pb5.txt
+./ScriptBackUps/Pb/Pb6.txt
+./ScriptBackUps/Pb5.txt
+./ScriptBackUps/Pb6.txt
+./URLs.txt
