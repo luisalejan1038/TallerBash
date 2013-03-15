@@ -1,6 +1,0 @@
-Report Unix-style byte offsets.
-This switch causes grep DB to report byte offsets as if the file were a Unix-style text
-file, i.e. with CR characters stripped off. This DB will produce results identical to
-running grep on a Unix machine.
-This option has no effect unles DB s -b option is also used; it has no effect on
-platforms other than MS-DOS and DB MS-Windows.
